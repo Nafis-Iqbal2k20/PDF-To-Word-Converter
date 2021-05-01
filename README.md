@@ -1,5 +1,5 @@
 # PDF-To-Word-Converter
-Requarment
+Requirement
 ==========
 You need PyPDF2 package for making this project . For install this project 
 write:
